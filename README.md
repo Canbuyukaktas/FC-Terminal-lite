@@ -1,6 +1,6 @@
 # FC TERMINAL v1.2: Institutional AI Investment Engine
 
-![FC Terminal Banner](https://fcalgobot.com/images/banner.jpg)
+![FC Terminal Banner](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/banner.jpg)
 
 FC Terminal is a high-fidelity, clinical financial analytical interface designed for retail and institutional traders. By leveraging the **Google Gemini 3 Pro** multimodal logic and real-time **Google Search Grounding**, it bridges the gap between raw market data and actionable investment strategy.
 
@@ -39,11 +39,11 @@ CC BY-NC (Attribution-NonCommercial) License: This license allows reuse and adap
 
 | Dashboard Overview | Institutional RRG Matrix |
 | :---: | :---: |
-| ![Dashboard](images/dashboard_preview.jpg) | ![RRG](images/rrg.jpg) |
+| ![Dashboard](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/dashboard_preview.jpg) | ![RRG](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/rrg.jpg) |
 
 | AI Visual Analysis | Whale Portfolio Audit |
 | :---: | :---: |
-| ![Vision](images/vision_preview.jpg) | ![Whale](images/whale_preview.jpg) |
+| ![Vision](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/vision_preview.jpg) | ![Whale](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/whale_preview.jpg) |
 
 ---
 
