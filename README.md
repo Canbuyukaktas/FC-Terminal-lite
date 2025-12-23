@@ -3,8 +3,10 @@
 ![FC Terminal Banner](https://media.discordapp.net/attachments/1430315672684200050/1453005302986178591/Screenshot_2025-12-23_064807.jpg?ex=694be023&is=694a8ea3&hm=cc1bd08a9b58a7e7b9ce819748628946b1ed336e77c7a3d67fca5cfec0e9f052&=&format=webp&width=1286&height=1839)
 
 FC Terminal is a high-fidelity, clinical financial analytical interface designed for retail and institutional traders. By leveraging the **Google Gemini 3 Pro** multimodal logic and real-time **Google Search Grounding**, it bridges the gap between raw market data and actionable investment strategy.
+* 
 *   **APP LINK:** [FC TERMINAL](https://ai.studio/apps/drive/1drgc-0zMhXzJuvI2splywxDEg91hA88-?fullscreenApplet=true)
-CC BY-NC (Attribution-NonCommercial) License: This license allows reuse and adaptation only for non-commercial purposes, with attribution
+*   
+*   CC BY-NC (Attribution-NonCommercial) License: This license allows reuse and adaptation only for non-commercial purposes, with attribution
 
 ## 🚀 Key Strategic Modules
 
