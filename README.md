@@ -1,9 +1,9 @@
 # FC TERMINAL v1.2: Institutional AI Investment Engine
 
-![FC Terminal Banner](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/banner.jpg)
+![FC Terminal Banner](https://media.discordapp.net/attachments/1430315672684200050/1453005302986178591/Screenshot_2025-12-23_064807.jpg?ex=694be023&is=694a8ea3&hm=cc1bd08a9b58a7e7b9ce819748628946b1ed336e77c7a3d67fca5cfec0e9f052&=&format=webp&width=1286&height=1839)
 
 FC Terminal is a high-fidelity, clinical financial analytical interface designed for retail and institutional traders. By leveraging the **Google Gemini 3 Pro** multimodal logic and real-time **Google Search Grounding**, it bridges the gap between raw market data and actionable investment strategy.
-
+*   **APP LINK:** [FC TERMINAL](https://ai.studio/apps/drive/1drgc-0zMhXzJuvI2splywxDEg91hA88-?fullscreenApplet=true)
 CC BY-NC (Attribution-NonCommercial) License: This license allows reuse and adaptation only for non-commercial purposes, with attribution
 
 ## 🚀 Key Strategic Modules
@@ -39,11 +39,9 @@ CC BY-NC (Attribution-NonCommercial) License: This license allows reuse and adap
 
 | Dashboard Overview | Institutional RRG Matrix |
 | :---: | :---: |
-| ![Dashboard](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/dashboard_preview.jpg) | ![RRG](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/rrg.jpg) |
 
 | AI Visual Analysis | Whale Portfolio Audit |
 | :---: | :---: |
-| ![Vision](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/vision_preview.jpg) | ![Whale](https://github.com/tienqnguyen/FC-Terminal-lite/blob/main/images/whale_preview.jpg) |
 
 ---
 
@@ -99,4 +97,4 @@ Trading financial instruments involves high risk. FC Terminal provides AI-ground
 *   **Discord:** [Join the Signal Hub](https://discord.gg/NkWFwVWHYz)
 *   **Version:** v1.2.0 (Lite Edition)
 
-© 2024 FC ALGO BOT INTELLIGENCE. ALL RIGHTS RESERVED.
+© 2025 FC ALGO BOT INTELLIGENCE. ALL RIGHTS RESERVED.
